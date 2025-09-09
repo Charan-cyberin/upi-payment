@@ -12,7 +12,7 @@ function App() {
     // Your UPI ID here
     const upiID = "9999900000@ibl";
 
-    const upiLink = `upi://pay?pa=moulimahesh02@okaxis&pn=Merchant%20Name&am=${amount}&cu=INR&tn=Payment`;
+    const upiLink = `upi://pay?pa=6303386967-2@ibl&pn=Merchant%20Name&am=${amount}&cu=INR&tn=Payment`;
     window.location.href = upiLink;
   };
 
