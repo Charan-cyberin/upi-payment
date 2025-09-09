@@ -52,7 +52,7 @@ function App() {
           width: "250px",
         }}
       >
-        Next
+        Make Payment
       </button>
     </div>
   );
